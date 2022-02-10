@@ -4,3 +4,6 @@
 2. O(2N)
 3. O(N + log N)
 4. O(N + M)
+
+2. => Porque O(2N) es lo mismo que O(N)
+4. => Porque N + M darian lo mismo si M fuera N, al final se convertiria en O(N) 
