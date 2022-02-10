@@ -1,9 +1,9 @@
 ¿Cuales de las siguientes sentencias son equivalentes a O(N)? ¿por qué?
 
 1. O(N + P) donde P < n/2
-2. O(2N)
+2. O(2N) -> true
 3. O(N + log N)
-4. O(N + M)
+4. O(N + M) ->t rue
 
 2. => Porque O(2N) es lo mismo que O(N)
 4. => Porque N + M darian lo mismo si M fuera N, al final se convertiria en O(N) 
